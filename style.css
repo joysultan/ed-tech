@@ -16,3 +16,29 @@
     font-size: 20px;
 
 }
+.carousel-caption{
+    bottom:80px;
+    padding-left:140px;
+    padding-right:100px;
+}
+.carousel-caption h2{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 50px;
+    
+}
+.carousel-caption p{
+    font-size: 18px;
+    font-weight: 300;
+    color: #F4F4F4;
+    line-height: 30px;
+}
+.carousel-caption button{
+    font-size: 26px;
+    background-color: #289BDE;
+}
+.slider-img{}
+.slider-img img{
+    /* opacity: dark .7; */
+    filter: brightness(40%);
+}
