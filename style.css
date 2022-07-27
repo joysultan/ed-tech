@@ -1,0 +1,18 @@
+.menu ul{}
+.menu ul li{}
+.menu ul li a{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+.menu h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+ 
+}
+.menu button{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+
+}
